@@ -21,8 +21,8 @@ const presentation: Presentation = {
       link: "https://twitter.com/example",
     },
     {
-      label: "Bento",
-      link: "https://bento.me/example",
+      label: "Facebook",
+      link: "https://facebook.com/example",
     }
   ],
 };
